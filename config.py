@@ -37,14 +37,14 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
-├🤖 ᴍy ɴᴀᴍᴇ : {}
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=http://telegram.me/Lucifer_x0o>ᴀʙʀᴀʜᴀᴍ™ [𝕃𝕠𝕤𝕥]</a>
-├👑 Instagram : <a href=https://www.instagram.com/hanime_flix?igsh=MWFxOXVxOTBjcnZvdA==>Hᴀɴɪᴍᴇ_Fʟɪx</a> 
-├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Anime_Flix_Network>Aɴɪᴍᴇ Fʟɪx Nᴇᴛᴡᴏʀᴋ</a>
-├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pʏʀᴏɢʀᴀᴍ</a>
-├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pʏᴛʜᴏɴ 3</a>
-├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ Dʙ</a>
-├🌀 ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://dashboard.heroku.com>Hᴇʀᴏᴋᴜ</a>
+├🤖 <b>ᴍy ɴᴀᴍᴇ</b> : {}
+├👨‍💻 <b>Pʀᴏɢʀᴀᴍᴇʀ</b> : <a href=http://telegram.me/Lucifer_x0o>ᴀʙʀᴀʜᴀᴍ™ [𝕃𝕠𝕤𝕥]</a>
+├👑 <b>Instagram</b> : <a href=https://www.instagram.com/hanime_flix?igsh=MWFxOXVxOTBjcnZvdA==>Hᴀɴɪᴍᴇ_Fʟɪx</a> 
+├☃️ <b>ꜰᴏᴜɴᴅᴇʀ ᴏꜰ</b> : <a href=https://t.me/Anime_Flix_Network>Fʟɪx Nᴇᴛᴡᴏʀᴋ</a>
+├📕 <b>Lɪʙʀᴀʀy</b> : <a href=https://github.com/pyrogram>Pʏʀᴏɢʀᴀᴍ</a>
+├✏️ <b>Lᴀɴɢᴜᴀɢᴇ</b> : <a href=https://www.python.org>Pʏᴛʜᴏɴ 3</a>
+├💾 <b>Dᴀᴛᴀ Bᴀꜱᴇ</b> : <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ Dʙ</a>
+├🌀 <b>ᴍʏ ꜱᴇʀᴠᴇʀ</b> : <a href=https://dashboard.heroku.com>Hᴇʀᴏᴋᴜ</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
