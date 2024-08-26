@@ -6,7 +6,7 @@ class Config(object):
     # pyro client config
     API_ID    = os.environ.get("API_ID", "20263428") #⚠️ Required
     API_HASH  = os.environ.get("API_HASH", "f9dc42564f6e6eb9920912b09f729e3f") #⚠️ Required
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6653409043:AAEXTavYE2PWxuZMe_FlRuYng7fbxtU5rGM") #⚠️ Required
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5929288082:AAEu_0romVWR3NEOKVxnz45w_Oe2KLrjx0k") #⚠️ Required
    
     # database config
     DB_NAME = os.environ.get("DB_NAME","Ai_Hoshino")     
@@ -14,7 +14,7 @@ class Config(object):
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "https://te.legra.ph/file/326aaeae6ae3eff807460.jpg")
+    START_PIC   = os.environ.get("START_PIC", "https://telegra.ph/file/46d198cdb447619e45e52.jpg")
     ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '').split()] #⚠️ Required
     FORCE_SUB   = os.environ.get("FORCE_SUB", "Hentaii_flix") #⚠️ Required Username without @
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001944217427")) #⚠️ Required
@@ -38,9 +38,9 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Snowball_Official>𝓢𝓝𝓞𝓦𝓑𝓐𝓛𝓛</a>
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=http://telegram.me/Lucifer_x0o>ᴀʙʀᴀʜᴀᴍ™ [𝕃𝕠𝕤𝕥]</a>
 ├👑 Instagram : <a href=https://www.instagram.com/ritesh6_>C-Insta</a> 
-├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Kdramaland>K-Lᴀɴᴅ</a>
+├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Anime_Flix_Network</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
